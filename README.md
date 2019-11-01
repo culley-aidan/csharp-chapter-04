@@ -2,7 +2,7 @@
 C# Programming Chapter 4
 
 ## TODO
-- [ ] Guided - CompareThreeNumbers
+- [X] Guided - CompareThreeNumbers
 - [ ] Guided - DemoORAndAND
 - [ ] 03 – Admission
 - [ ] 07 – GuessingGame
