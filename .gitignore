@@ -1,0 +1,15 @@
+
+CompareThreeNumbers/.vs/CompareThreeNumbers/v16/.suo
+*.lock
+CompareThreeNumbers/.vs/CompareThreeNumbers/v16/Server/sqlite3/storage.ide
+CompareThreeNumbers/.vs/CompareThreeNumbers/v16/Server/sqlite3/storage.ide-shm
+*.ide-wal
+*.json
+*.dll
+*.exe
+*.pdb
+*.cache
+*.props
+*.targets
+CompareThreeNumbers/CompareThreeNumbers/obj/Debug/netcoreapp3.0/CompareThreeNumbers.AssemblyInfo.cs
+CompareThreeNumbers/CompareThreeNumbers/obj/Debug/netcoreapp3.0/CompareThreeNumbers.csproj.FileListAbsolute.txt
