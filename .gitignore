@@ -13,3 +13,9 @@ CompareThreeNumbers/.vs/CompareThreeNumbers/v16/Server/sqlite3/storage.ide-shm
 *.targets
 CompareThreeNumbers/CompareThreeNumbers/obj/Debug/netcoreapp3.0/CompareThreeNumbers.AssemblyInfo.cs
 CompareThreeNumbers/CompareThreeNumbers/obj/Debug/netcoreapp3.0/CompareThreeNumbers.csproj.FileListAbsolute.txt
+CompareThreeNumbers/.vs/CompareThreeNumbers/DesignTimeBuild/.dtbcache
+DemoORAndAND/.vs/DemoORAndAND/v16/.suo
+*.ide
+*.ide-shm
+DemoORAndAND/DemoORAndAND/obj/Debug/netcoreapp3.0/DemoORAndAND.AssemblyInfo.cs
+DemoORAndAND/DemoORAndAND/obj/Debug/netcoreapp3.0/DemoORAndAND.csproj.FileListAbsolute.txt
