@@ -3,7 +3,7 @@ C# Programming Chapter 4
 
 ## TODO
 - [X] Guided - CompareThreeNumbers
-- [ ] Guided - DemoORAndAND
+- [X] Guided - DemoORAndAND
 - [ ] 03 – Admission
 - [ ] 07 – GuessingGame
 - [ ] 08 - RockPaperScissors
