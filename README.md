@@ -6,5 +6,5 @@ C# Programming Chapter 4
 - [X] Guided - DemoORAndAND
 - [X] 03 – Admission
 - [X] 07 – GuessingGame
-- [ ] 08 - RockPaperScissors
+- [X] 08 - RockPaperScissors
 - [ ] 09 - Lottery
