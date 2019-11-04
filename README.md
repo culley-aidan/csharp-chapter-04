@@ -7,4 +7,4 @@ C# Programming Chapter 4
 - [X] 03 – Admission
 - [X] 07 – GuessingGame
 - [X] 08 - RockPaperScissors
-- [ ] 09 - Lottery
+- [X] 09 - Lottery
